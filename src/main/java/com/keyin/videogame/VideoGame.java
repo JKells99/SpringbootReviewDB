@@ -1,6 +1,7 @@
 package com.keyin.videogame;
 
 // Test PR
+// Test2
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
